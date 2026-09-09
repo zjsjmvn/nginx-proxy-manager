@@ -5,11 +5,17 @@
   "locale-es-ES": {
     "defaultMessage": "Español"
   },
-  "locale-ie-GA": {
+  "locale-et-EE": {
+    "defaultMessage": "Eesti"
+  },
+  "locale-ga-IE": {
     "defaultMessage": "Gaeilge"
   },
   "locale-de-DE": {
     "defaultMessage": "German"
+  },
+  "locale-pt-PT": {
+	"defaultMessage": "Português (Europeu)"
   },
   "locale-fr-FR": {
     "defaultMessage": "Français"
@@ -25,6 +31,9 @@
   },
   "locale-sk-SK": {
     "defaultMessage": "Slovenčina"
+  },
+  "locale-cs-CZ": {
+    "defaultMessage": "Čeština"
   },
   "locale-zh-CN": {
     "defaultMessage": "中文"
@@ -52,5 +61,14 @@
   },
   "locale-hu-HU": {
     "defaultMessage": "Magyar"
+  },
+  "locale-no-NO": {
+    "defaultMessage": "Norsk"
+  },
+  "locale-uk-UA": {
+    "defaultMessage": "Українська"
+  },
+  "locale-az-AZ": {
+    "defaultMessage": "Azərbaycanca"
   }
 }
